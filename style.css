@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.section2 {
+    background-image: url(img/HAYZED06.png);
+    background-size: cover;
+    background-position: 0;
+    background-repeat: no-repeat;
+}
+img.roundsticker {
+    height: 200px;
+}
+.card {
+    height: 450px;
+}
+li {
+    list-style-type: none;
+}
+.Calculator {
+    font-family: sans-serif pro;
+    font-size: 15px;
+    font-weight: 600;
+}
+.market {
+    font-family: sans-serif pro;
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.valentine {
+        font-size: 36px;
+        font-family: "DM Serif Display", serif;
+        font-weight: 500;
+        font-style: normal;
+        width: 550px;
+        color: #ee120d;
+ }
+.hand{
+    height: 400px;
+}
+.card-body {
+    h5 {
+        font-size: 16px;
+        font-family: sans-serif;
+        font-weight: 700;
+    }
+    p {
+        font-size: 12.8px;
+        font-family: sans-serif;
+        font-weight: 700;
+        color: #7087a3;
+    }
+    h3 {
+        font-size: 20px;
+        font-family: sans-serif;
+        font-weight: 700;
+    }
+    h3 span {
+        font-size: 14px;
+        font-family: sans-serif;
+        font-weight: 700;
+        color: #7087a3;
+    }
+    a {
+        font-size: 14px;
+        font-family: sans-serif;
+        font-weight: 700;
+    }
+   
+}
+
+.online {
+    font-size: 30px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.solution {
+    font-size: 22px;
+    font-family: sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    width: 700px;
+    opacity: 0.6;
+}
+.twitter {
+    background-color:#edf6fd ;
+}
+
+.customer {
+    font-size: 30px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+    font-style: normal;
+    /* color: #384a62; */
+}
+.belowtwitter {
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    opacity: 0.6;
+}
+.follow {
+    background-color: #384a62;
+}
+.copyright {
+    background-color: #cbcac8 ;
+}
+.search-input {
+    outline: none;
+    -webkit-box-shadow :none;
+    box-shadow: none;
+}
