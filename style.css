@@ -110,8 +110,26 @@ li {
 .copyright {
     background-color: #cbcac8 ;
 }
-.search-input {
-    outline: none;
-    -webkit-box-shadow :none;
-    box-shadow: none;
+.boxsearch {
+    border: none;
+}
+
+::placeholder{
+    font-size: 20px;
+}
+.popular {
+    font-size: 30px;
+    font-family: "DM Serif Display", serif;
+    font-weight: 400;
+}
+.category {
+    font-size: 16px;
+    font-family: sans-serif;
+    font-weight: 600;
+}
+.footer h4{
+    color: #e0c69a;
+}
+.card img:hover {
+    transform: scale(1.2,1);
 }
